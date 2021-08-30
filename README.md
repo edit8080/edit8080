@@ -19,7 +19,7 @@ I'm interested in FrontEnd Developer!
 <p>
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white" />
