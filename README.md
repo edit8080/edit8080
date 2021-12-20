@@ -2,7 +2,7 @@
 I'm interested in FrontEnd Developer! 
 
 ### Doing Now 😀
-- SSAFY 6th generation
+- Working in [Linewalks](https://linewalks.com/)
 
 ### Before Studying in 😎
 - University of Seoul (Computer Science)
